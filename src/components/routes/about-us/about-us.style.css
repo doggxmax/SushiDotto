@@ -1,0 +1,33 @@
+.section--3 {
+  width: 100%;
+  height: 780px;
+  position: relative;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 40px;
+  gap: 40px;
+}
+.section-contain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 80px;
+}
+.section-decription-3 {
+  font-size: 18px;
+  color: #495057;
+  line-height: 40px;
+}
+
+.section-decription-4 {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-around;
+  justify-items: center;
+}
+.section-decription-4 div img {
+  width: 90%;
+  height: 240px;
+}

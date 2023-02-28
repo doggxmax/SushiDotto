@@ -1,0 +1,38 @@
+.foot {
+  width: auto;
+  height: auto;
+  position: relative;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
+.foot-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 300px;
+}
+.foot-info-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.foot-heading {
+  font-size: 20px;
+}
+.foot-description {
+  display: flex;
+  gap: 20px;
+}
+.foot-svg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.foot-info {
+  width: 30px;
+  height: 30px;
+  background-color: #fff;
+  border-radius: 100px;
+}

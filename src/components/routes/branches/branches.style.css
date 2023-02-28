@@ -1,0 +1,66 @@
+.section--2 {
+  width: 100%;
+  height: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  position: relative;
+  color: #fff;
+  background-color: #111;
+  padding: 40px;
+}
+.section--2::before {
+  content: "";
+  position: absolute;
+  /* background-image: url(fasf/section--2-background.jpg); */
+  background-position: center;
+  background-size: cover;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0.2;
+  z-index: -11;
+}
+.section-header-2 {
+  margin-top: 40px;
+}
+.section-description--2 {
+  display: flex;
+  gap: 24px;
+}
+.maps {
+  padding: 40px 40px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.fa-map-marker:before {
+  content: "\f041";
+  color: #fff;
+}
+.fa-phone:before {
+  content: "\f095";
+  color: #fff;
+}
+.fa-clock-o:before {
+  content: "\f017";
+  color: #fff;
+}
+.maps-description {
+  color: #fff;
+}
+.maps-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  gap: 10px;
+}
+.maps-description h5 {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+.maps-spec {
+  margin-bottom: 22px;
+}
