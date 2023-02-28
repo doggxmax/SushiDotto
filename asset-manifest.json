@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ae6a0b5.css",
-    "main.js": "/static/js/main.0a198452.js",
-    "static/js/787.30d23b93.chunk.js": "/static/js/787.30d23b93.chunk.js",
-    "static/media/photo-2.jpg": "/static/media/photo-2.41ee19ea8097996d569e.jpg",
-    "static/media/photo-1.jpg": "/static/media/photo-1.c46231b425e2b129d3af.jpg",
-    "static/media/photo-4.jpg": "/static/media/photo-4.914bb0e8be495649188d.jpg",
-    "static/media/photo-3.jpg": "/static/media/photo-3.2d9ac3114b002d7b6136.jpg",
-    "static/media/dong-cheng-fxfxT00Vd_A-unsplash-min.jpg": "/static/media/dong-cheng-fxfxT00Vd_A-unsplash-min.2f504a3e662be0326668.jpg",
-    "static/media/shopping-bag.svg": "/static/media/shopping-bag.62b7d60cb2a21670752b651575a9d3b0.svg",
-    "static/media/instagram.svg": "/static/media/instagram.321c64c3fb9bceaba9d8c61618b3fd77.svg",
-    "index.html": "/index.html",
-    "static/media/facebook.svg": "/static/media/facebook.b9f30fdc5ed1642d0fea0d2b752a77be.svg",
-    "main.7ae6a0b5.css.map": "/static/css/main.7ae6a0b5.css.map",
-    "main.0a198452.js.map": "/static/js/main.0a198452.js.map",
-    "787.30d23b93.chunk.js.map": "/static/js/787.30d23b93.chunk.js.map"
+    "main.css": "/SushiDotto/static/css/main.7b8607c8.css",
+    "main.js": "/SushiDotto/static/js/main.2cd28fb4.js",
+    "static/js/787.30d23b93.chunk.js": "/SushiDotto/static/js/787.30d23b93.chunk.js",
+    "static/media/photo-2.jpg": "/SushiDotto/static/media/photo-2.41ee19ea8097996d569e.jpg",
+    "static/media/photo-1.jpg": "/SushiDotto/static/media/photo-1.c46231b425e2b129d3af.jpg",
+    "static/media/photo-4.jpg": "/SushiDotto/static/media/photo-4.914bb0e8be495649188d.jpg",
+    "static/media/photo-3.jpg": "/SushiDotto/static/media/photo-3.2d9ac3114b002d7b6136.jpg",
+    "static/media/dong-cheng-fxfxT00Vd_A-unsplash-min.jpg": "/SushiDotto/static/media/dong-cheng-fxfxT00Vd_A-unsplash-min.2f504a3e662be0326668.jpg",
+    "static/media/shopping-bag.svg": "/SushiDotto/static/media/shopping-bag.62b7d60cb2a21670752b651575a9d3b0.svg",
+    "static/media/instagram.svg": "/SushiDotto/static/media/instagram.321c64c3fb9bceaba9d8c61618b3fd77.svg",
+    "index.html": "/SushiDotto/index.html",
+    "static/media/facebook.svg": "/SushiDotto/static/media/facebook.b9f30fdc5ed1642d0fea0d2b752a77be.svg",
+    "main.7b8607c8.css.map": "/SushiDotto/static/css/main.7b8607c8.css.map",
+    "main.2cd28fb4.js.map": "/SushiDotto/static/js/main.2cd28fb4.js.map",
+    "787.30d23b93.chunk.js.map": "/SushiDotto/static/js/787.30d23b93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ae6a0b5.css",
-    "static/js/main.0a198452.js"
+    "static/css/main.7b8607c8.css",
+    "static/js/main.2cd28fb4.js"
   ]
 }
