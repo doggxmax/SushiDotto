@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SushiDotto/static/css/main.7b8607c8.css",
-    "main.js": "/SushiDotto/static/js/main.2cd28fb4.js",
+    "main.js": "/SushiDotto/static/js/main.e143e5dc.js",
     "static/js/787.30d23b93.chunk.js": "/SushiDotto/static/js/787.30d23b93.chunk.js",
     "static/media/photo-2.jpg": "/SushiDotto/static/media/photo-2.41ee19ea8097996d569e.jpg",
     "static/media/photo-1.jpg": "/SushiDotto/static/media/photo-1.c46231b425e2b129d3af.jpg",
@@ -13,11 +13,11 @@
     "index.html": "/SushiDotto/index.html",
     "static/media/facebook.svg": "/SushiDotto/static/media/facebook.b9f30fdc5ed1642d0fea0d2b752a77be.svg",
     "main.7b8607c8.css.map": "/SushiDotto/static/css/main.7b8607c8.css.map",
-    "main.2cd28fb4.js.map": "/SushiDotto/static/js/main.2cd28fb4.js.map",
+    "main.e143e5dc.js.map": "/SushiDotto/static/js/main.e143e5dc.js.map",
     "787.30d23b93.chunk.js.map": "/SushiDotto/static/js/787.30d23b93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b8607c8.css",
-    "static/js/main.2cd28fb4.js"
+    "static/js/main.e143e5dc.js"
   ]
 }
